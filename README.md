@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ahmat Fauzi</h1>
+<h1 align="left">Ahmat Fauzi - @ahmatfauzy_</h1>
 <h3 align="center"></h3>
 <!-- <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"> -->
 <h3 align="left">Connect with me:</h3>
