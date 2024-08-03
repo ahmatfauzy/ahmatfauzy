@@ -1,4 +1,4 @@
-I'm still in the learning process
+
 
 <!--
 <h1 align="left">Hi👋,<br>My name is Ahmat Fauzi</h1>
