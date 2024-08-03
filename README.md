@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmat fauzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmat fauzi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmat-fauzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmat fauzi" height="30" width="40" /></a>
 </p>
 
 <!-- 
