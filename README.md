@@ -1,14 +1,12 @@
 <h1 align="left">Hi👋,<br>My name is Ahmat Fauzi</h1>
 <h3 align="center"></h3>
 
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmat-fauzi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmat fauzi" height="30" width="40" /></a>
 </p>
-
-
-<!--
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -32,7 +30,8 @@
     </a>
 </p>
 
---
+
+<!--
 
 <h3 align="left">Languages and Tools:</h3>
     <p align="left">
@@ -61,4 +60,5 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
         </a>
     </p>
+    
     -->
