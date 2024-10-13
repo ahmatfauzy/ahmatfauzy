@@ -1,3 +1,6 @@
+![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Ahmat%20Fauzi&text2=IT%20Enthusiast&width=2000&height=200)
+
+
 <h1 align="left">Hi👋,<br>My name is Ahmat Fauzi</h1>
 <h3 align="center"></h3>
 
