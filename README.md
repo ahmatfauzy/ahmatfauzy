@@ -23,10 +23,9 @@
 
 ###
 
-<h3 align="left">Techs stack</h3>
+<h2 align="left">Techs stack</h3>
 
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
