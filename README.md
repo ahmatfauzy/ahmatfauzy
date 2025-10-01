@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm Fauzi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
+<h1 align="left">Hello, I'm Fauzy <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
 
 ###
 
@@ -24,7 +24,8 @@
 
 ###
 
-<h2 align="left">Techs stack</h3>
+
+<!-- <h2 align="left">Techs stack</h3>
 
 
 <div align="left">
@@ -64,4 +65,4 @@
  
 </div>
 
-
+ -->
