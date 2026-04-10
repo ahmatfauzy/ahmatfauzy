@@ -1,28 +1,34 @@
-<h1 align="left">Hello, I'm Fauzy <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1>
+<h1 align="center">
+  Hello, I'm Fauzy 
+  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" 
+       alt="waving hand gif" width="40" />
+</h1>
 
-###
+<p align="center">
+  Software Developer | Passionate about clean code, modern web tech, and building meaningful digital experiences.
+</p>
 
-<p align="left">Software Developer | Passionate about clean code, modern web tech, and building meaningful digital experiences.</p>
-
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ahmat-fauzi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
-  </a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/ahmat-fauzi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
+</a>
   <a href="https://www.instagram.com/ahmatfauzy_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
   </a>
   <a href="https://t.me/ahmatfauzy/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="telegram logo" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="35"/>
   </a>
   <a href="https://ahmatfauzi.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="website logo" />
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
   </a>
 </div>
 
+<br>
 
-###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmatfauzy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
+</div>
 
 
 <!-- <h2 align="left">Techs stack</h3>
