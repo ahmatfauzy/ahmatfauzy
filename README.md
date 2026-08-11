@@ -1,14 +1,14 @@
-<h1 align="center">
+<h1>
   Hello, I'm Fauzy 
   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" 
        alt="waving hand gif" width="40" />
 </h1>
 
-<p align="center">
+<p>
   Software Developer | Passionate about clean code, modern web tech, and building meaningful digital experiences.
 </p>
 
-<div align="center">
+<div>
   <a href="https://www.linkedin.com/in/ahmat-fauzi/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
 </a>
@@ -26,9 +26,9 @@
 <br>
 
 
-<div align="center">
+<!-- <div>
   <img src="https://streak-stats.demolab.com?user=ahmatfauzy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-</div>
+</div> -->
 
 
 <!-- <h2 align="left">Techs stack</h3>
